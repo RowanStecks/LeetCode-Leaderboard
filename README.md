@@ -1,6 +1,8 @@
-# React + TypeScript + Vite
+# LeetCode Leaderboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+LeetCode Leaderboard uses Python and the LeetCode Graph QL API of 500+ top LeetCode users to obtain stats such as ranking, problems solved, acceptance rate, submission streaks, contest rating, primary language used and badges. Displays this information using TypeScript, React, HTML and CSS.
+
+<!--This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
@@ -19,3 +21,4 @@ You can deploy your new Vite project with a single command from your terminal us
 ```shell
 $ vercel
 ```
+-->
