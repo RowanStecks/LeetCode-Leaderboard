@@ -1,0 +1,34 @@
+// types.ts
+export type Item = {
+    ranking: number;
+    school: string;
+    company: string;
+    countryName: string;
+    username: string;
+    totalProblemsSolved: number;
+    easySolved: number;
+    mediumSolved: number;
+    hardSolved: number;
+    acceptanceRate: number;
+    submissions: number;
+    currentStreak: number;
+    maxStreak: number;
+    submissionDays: number;
+    daysBadgeCount: string;
+    rating: number;
+    badge: string;
+    badgePNG: string;
+    primaryLanguage: string;
+    primaryLanguagePNG: string;
+    primaryLanguageCount: number;
+    badgeCount: number;
+    userAvatar: string;
+    realName: string;
+    countryCodePNG: string;
+    globalRanking: number;
+    attendedContestsCount: number;
+    badgeCategories: number[];
+    submissionsPerYear: string[];
+    currentStreakDates: string[];
+    longestStreakDates: string[];
+}
